@@ -34,7 +34,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-2">
                 <Instagram className="w-5 h-5 text-secondary" />
-                <a href="https://instagram.com/camaraviana" target="_blank" rel="noopener noreferrer" className="font-montserrat text-gray-300 hover:text-secondary transition-colors">@rvvianaa
+                <a href="https://instagram.com/rvvianaa" target="_blank" rel="noopener noreferrer" className="font-montserrat text-gray-300 hover:text-secondary transition-colors">@rvvianaa
               </a>
               </li>
             </ul>
