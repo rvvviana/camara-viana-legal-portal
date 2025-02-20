@@ -25,7 +25,9 @@ const Hero = () => {
             Excelência jurídica e compromisso com resultados. Nossa missão é defender seus direitos com dedicação e profissionalismo.
           </p>
           <motion.a
-            href="#contato"
+            href="https://wa.me/+556193390991"
+            target="_blank"
+            rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className="inline-block bg-secondary text-primary font-montserrat font-semibold px-8 py-4 rounded-md hover:bg-secondary/90 transition-colors duration-300"
