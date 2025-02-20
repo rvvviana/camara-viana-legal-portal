@@ -12,7 +12,7 @@ interface LawyerType {
 }
 
 const mainLawyer: LawyerType = {
-  name: "Dr. João Câmara",
+  name: "Danilo Viana",
   role: "Advogado Principal",
   experience: 15,
   specialties: ["Direito Civil", "Direito Empresarial", "Direito Tributário"],
