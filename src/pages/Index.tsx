@@ -2,6 +2,7 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import Services from "@/components/Services";
+import TeamSection from "@/components/TeamSection";
 import AboutUs from "@/components/AboutUs";
 import Footer from "@/components/Footer";
 import { motion } from "framer-motion";
@@ -17,6 +18,7 @@ const Index = () => {
       <Navbar />
       <Hero />
       <Services />
+      <TeamSection />
       <AboutUs />
       <Footer />
     </motion.div>
