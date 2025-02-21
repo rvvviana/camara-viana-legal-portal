@@ -18,7 +18,7 @@ const mainLawyer: LawyerType = {
   specialties: ["Direito Civil", "Direito Empresarial", "Direito Tributário"],
   education: "Universidade de São Paulo (USP)",
   description: "Com mais de 15 anos de experiência na área jurídica, o Dr. João Câmara é especializado em direito civil, empresarial e tributário. Sua abordagem personalizada e comprometida garante que cada cliente receba a atenção e dedicação que merece, sempre buscando as melhores soluções jurídicas para cada caso.",
-  image: "/lovable-uploads/111fa1b5-a789-42d7-9b7a-a95b7a22cbf7.png"
+  image: "https://gundimganzella.com.br/wp-content/uploads/2023/11/IMG_0219-Editar-fotor-20231123174410-682x1024.png"
 };
 
 const partnerLawyers: LawyerType[] = [
