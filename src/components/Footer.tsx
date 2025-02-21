@@ -62,9 +62,7 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="#contato" className="font-montserrat text-gray-300 hover:text-secondary transition-colors">
-                  Contato
-                </a>
+                <a href="#contato" className="font-montserrat text-gray-300 hover:text-secondary transition-colors"></a>
               </li>
             </ul>
           </div>
