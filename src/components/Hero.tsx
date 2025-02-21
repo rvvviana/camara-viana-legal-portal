@@ -16,7 +16,7 @@ const Hero = () => {
         duration: 0.8
       }} className="text-center">
           <div className="mb-8">
-            <img alt="CÂMARA VIANA Logo" src="/lovable-uploads/3b25e013-bd77-444b-a23a-9e67b3ff2b06.png" className="h-32 w-auto mx-auto" />
+            <img alt="CÂMARA VIANA Logo" src="/lovable-uploads/3b25e013-bd77-444b-a23a-9e67b3ff2b06.png" className="h-32 w-auto mx-auto object-cover" />
           </div>
           <h1 className="font-playfair text-5xl md:text-7xl font-bold text-secondary mb-4">
             CÂMARA VIANA
