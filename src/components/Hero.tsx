@@ -24,7 +24,7 @@ const Hero = () => {
           <h2 className="font-montserrat text-xl md:text-2xl text-secondary/90 mb-8">
             Advocacia e Assessoria Jurídica
           </h2>
-          <p className="font-montserrat text-white/80 max-w-2xl mx-auto text-lg mb-12">
+          <p className="font-montserrat text-white/85 max-w-xl mx-auto text-lg mb-1">
             Excelência jurídica e compromisso com resultados. Nossa missão é defender seus direitos com dedicação e profissionalismo.
           </p>
           <motion.a href="https://wa.me/+556193390991" target="_blank" rel="noopener noreferrer" whileHover={{
