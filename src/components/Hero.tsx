@@ -16,11 +16,10 @@ const Hero = () => {
         duration: 0.8
       }} className="text-center">
           <div className="mb-8">
-            <img alt="CÂMARA VIANA Logo" className="h-32 w-auto mx-auto" src="/lovable-uploads/469d2c91-0d00-4a61-8ebe-1b94265c1eae.png" />
+            <img alt="CÂMARA VIANA Logo" src="/lovable-uploads/469d2c91-0d00-4a61-8ebe-1b94265c1eae.png" className="h-38 w-30 mx-auto object-fill" />
           </div>
           <h1 className="font-playfair text-5xl md:text-7xl font-bold text-secondary mb-4">
-            CÂMARA VIANA
-          </h1>
+        </h1>
           <h2 className="font-montserrat text-xl md:text-2xl text-secondary/90 mb-8">
             Advocacia e Assessoria Jurídica
           </h2>
