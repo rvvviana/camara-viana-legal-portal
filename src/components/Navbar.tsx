@@ -25,7 +25,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-20">
           <div className="flex-shrink-0 flex items-center gap-2">
             <a href="#" className="text-primary hover:text-secondary transition-colors flex items-center gap-2">
-              <img alt="CÂMARA VIANA Logo" src="/lovable-uploads/3e7efd29-7fdd-4df0-87a1-0656cefae214.png" className="h-13 w-13 object-contain" />
+              <img alt="CÂMARA VIANA Logo" src="/lovable-uploads/3e7efd29-7fdd-4df0-87a1-0656cefae214.png" className="h-11 w-11 object-contain" />
               <span className="font-playfair text-2xl font-bold"></span>
             </a>
           </div>
