@@ -31,9 +31,7 @@ const Hero = () => {
           scale: 1.05
         }} whileTap={{
           scale: 0.95
-        }} className="inline-block bg-secondary text-primary font-montserrat font-semibold px-8 py-4 rounded-md hover:bg-secondary/90 transition-colors duration-300">
-            Entre em Contato
-          </motion.a>
+        }} className="inline-block bg-secondary text-primary font-montserrat font-semibold px-8 py-4 rounded-md hover:bg-secondary/90 transition-colors duration-300">Contato via Whatsapp</motion.a>
         </motion.div>
       </div>
     </section>;
