@@ -16,7 +16,7 @@ const FloatingCloud = () => {
       <a href="https://wa.me/+556193390991" target="_blank" rel="noopener noreferrer" className="block bg-white rounded-full shadow-lg hover:shadow-xl transition-shadow duration-300">
         <img
       // You can replace this with your cloud image
-      alt="Câmara Viana Logo" src="/lovable-uploads/04796801-273a-4a84-8cc9-b18dbb7e3b2b.jpg" className="w-16 h-16 p-3" />
+      alt="Câmara Viana Logo" src="/lovable-uploads/c8330eb9-5b91-434a-afaf-e66981249700.jpg" className="w-16 h-16 p-2.5" />
       </a>
     </motion.div>;
 };
