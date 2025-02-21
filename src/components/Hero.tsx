@@ -20,9 +20,7 @@ const Hero = () => {
           </div>
           <h1 className="font-playfair text-5xl md:text-7xl font-bold text-secondary mb-4">
         </h1>
-          <h2 className="font-montserrat text-xl md:text-2xl text-secondary/90 mb-8">
-            Advocacia e Assessoria Jurídica
-          </h2>
+          <h2 className="font-montserrat text-xl md:text-2xl text-secondary/90 mb-8">Suporte e excelência a mais de 10 anos  </h2>
           <p className="font-montserrat text-white/80 max-w-2xl mx-auto text-lg mb-12">
             Excelência jurídica e compromisso com resultados. Nossa missão é defender seus direitos com dedicação e profissionalismo.
           </p>
