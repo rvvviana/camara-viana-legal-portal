@@ -21,7 +21,7 @@ const Navbar = () => {
     href: "#sobre"
   }, {
     name: "Contato",
-    href: "#contato"
+    href: "wa.me/+556193390991"
   }];
   return <nav className={`fixed w-full z-50 transition-all duration-300 ${isScrolled ? "bg-white/90 backdrop-blur-md shadow-lg" : "bg-transparent"}`}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
