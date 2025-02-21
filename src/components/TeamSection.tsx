@@ -18,7 +18,7 @@ const mainLawyer: LawyerType = {
   specialties: ["Direito Civil", "Direito Empresarial", "Direito Tributário"],
   education: "Universidade de São Paulo (USP)",
   description: "Com mais de 15 anos de experiência na área jurídica, o Dr. João Câmara é especializado em direito civil, empresarial e tributário. Sua abordagem personalizada e comprometida garante que cada cliente receba a atenção e dedicação que merece, sempre buscando as melhores soluções jurídicas para cada caso.",
-  image: "/lawyer-main.jpg"
+  image: "/lovable-uploads/111fa1b5-a789-42d7-9b7a-a95b7a22cbf7.png"
 };
 
 const partnerLawyers: LawyerType[] = [
@@ -29,7 +29,7 @@ const partnerLawyers: LawyerType[] = [
     specialties: ["Direito Trabalhista", "Direito Previdenciário"],
     education: "Universidade Federal do Rio de Janeiro (UFRJ)",
     description: "Especialista em direito trabalhista e previdenciário, a Dra. Maria traz 10 anos de experiência em negociações e processos trabalhistas complexos.",
-    image: "/lawyer-1.jpg"
+    image: "/lovable-uploads/097bea91-88eb-48d7-b9a2-f60d24659193.png"
   },
   {
     name: "Dr. Pedro Santos",
@@ -38,7 +38,7 @@ const partnerLawyers: LawyerType[] = [
     specialties: ["Direito Empresarial", "Contratos"],
     education: "Pontifícia Universidade Católica (PUC)",
     description: "Com foco em direito empresarial e contratos, o Dr. Pedro é reconhecido por sua expertise em estruturação de negócios e consultoria empresarial.",
-    image: "/lawyer-2.jpg"
+    image: "/lovable-uploads/866ca653-c7bd-43d9-87d4-edfd82ef2500.png"
   },
   {
     name: "Dra. Ana Costa",
@@ -47,7 +47,7 @@ const partnerLawyers: LawyerType[] = [
     specialties: ["Direito Civil", "Direito do Consumidor"],
     education: "Universidade de Brasília (UnB)",
     description: "Especializada em direito civil e do consumidor, a Dra. Ana possui vasta experiência em resolução de conflitos e proteção dos direitos do consumidor.",
-    image: "/lawyer-3.jpg"
+    image: "/lovable-uploads/aaa205e6-2715-474d-b369-1f2a049600d2.png"
   }
 ];
 
