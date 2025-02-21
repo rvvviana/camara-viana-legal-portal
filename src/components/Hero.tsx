@@ -24,24 +24,14 @@ const Hero = () => {
           <h2 className="font-montserrat text-xl md:text-2xl text-secondary/90 mb-8">
             Advocacia e Assessoria Jurídica
           </h2>
-          <p className="font-montserrat text-white/85 max-w-xl mx-auto text-lg mb-1">
+          <p className="font-montserrat text-white/85 max-w-xl mx-auto text-lg mb-12">
             Excelência jurídica e compromisso com resultados. Nossa missão é defender seus direitos com dedicação e profissionalismo.
           </p>
           <motion.a href="https://wa.me/+556193390991" target="_blank" rel="noopener noreferrer" whileHover={{
           scale: 1.05
         }} whileTap={{
           scale: 0.95
-<<<<<<< HEAD
-<<<<<<< HEAD
-        }} className="inline-block bg-secondary text-primary font-montserrat font-semibold px-8 rounded-md hover:bg-secondary/90 transition-colors duration-300 py-[17px]">
-            Contato via Whatsapp
-          </motion.a>
-=======
-        {"}"}} className="inline-block bg-secondary text-primary font-montserrat font-semibold px-8 rounded-md hover:bg-secondary/90 transition-colors duration-300 py-[17px]">Contato via Whatsapp</motion.a>
->>>>>>> be5f1a9d6c1b66c6d580fadd6465f67ccc823973
-=======
         }} className="inline-block bg-secondary text-primary font-montserrat font-semibold px-8 py-4 rounded-md hover:bg-secondary/90 transition-colors duration-300">Contato via Whatsapp</motion.a>
->>>>>>> 1df09caefb3c9fb981c6d3cac5df0094086e4847
         </motion.div>
       </div>
     </section>;
